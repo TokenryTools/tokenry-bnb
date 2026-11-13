@@ -14,7 +14,6 @@ Live app: [tokenry.tools/binance](https://tokenry.tools/binance)
 ## Supported Networks
 
 - **BNB Smart Chain Mainnet** (Chain ID: 56)
-- **BNB Smart Chain Testnet** (Chain ID: 97)
 
 The same tools also run on Ethereum, Base, Arbitrum, Polygon, Optimism, Avalanche, Unichain, Robinhood Chain, Ink, Arc, Cronos and Elysium.
 
@@ -22,12 +21,12 @@ The same tools also run on Ethereum, Base, Arbitrum, Polygon, Optimism, Avalanch
 
 All contracts are verified on BscScan.
 
-| Contract | BNB Mainnet (56) | BNB Testnet (97) |
-| --- | --- | --- |
-| TokenFactory (BEP-20 token creator) | [0xD1f1DA33b2934981aDe31f6AD525f0D1646114F5](https://bscscan.com/address/0xD1f1DA33b2934981aDe31f6AD525f0D1646114F5#code) | [0x4F64D82Fd00180686f92Cdad1f1Cb4276f551c38](https://testnet.bscscan.com/address/0x4F64D82Fd00180686f92Cdad1f1Cb4276f551c38#code) |
-| TokenMultiSender (airdrops) | [0xC1CEbE1dE66Efdd0b415e5fbb5462469BB1b86ba](https://bscscan.com/address/0xC1CEbE1dE66Efdd0b415e5fbb5462469BB1b86ba#code) | [0x6586c20d217d7d1BfB8d56241D1F3FB60df8f2fE](https://testnet.bscscan.com/address/0x6586c20d217d7d1BfB8d56241D1F3FB60df8f2fE#code) |
-| PoolLauncher (pool creation + first buy) | [0x157E85E1527b2d1c1188Cad9101Df5644beaf396](https://bscscan.com/address/0x157E85E1527b2d1c1188Cad9101Df5644beaf396#code) | [0x3a168bb619f9113E3A98A7DF0e40b66674FE7d5a](https://testnet.bscscan.com/address/0x3a168bb619f9113E3A98A7DF0e40b66674FE7d5a#code) |
-| LiquidityManager (add / remove liquidity, claim fees) | [0x828cb0424f7f8FAb1DB1411e5B12b8fC78AC286f](https://bscscan.com/address/0x828cb0424f7f8FAb1DB1411e5B12b8fC78AC286f#code) | [0xdbc5307fd635063733CFedb651E6ffBB00eC2EAC](https://testnet.bscscan.com/address/0xdbc5307fd635063733CFedb651E6ffBB00eC2EAC#code) |
+| Contract | BNB Smart Chain Mainnet (56) |
+| --- | --- |
+| TokenFactory (BEP-20 token creator) | [0xD1f1DA33b2934981aDe31f6AD525f0D1646114F5](https://bscscan.com/address/0xD1f1DA33b2934981aDe31f6AD525f0D1646114F5#code) |
+| TokenMultiSender (airdrops) | [0xC1CEbE1dE66Efdd0b415e5fbb5462469BB1b86ba](https://bscscan.com/address/0xC1CEbE1dE66Efdd0b415e5fbb5462469BB1b86ba#code) |
+| PoolLauncher (pool creation + first buy) | [0x157E85E1527b2d1c1188Cad9101Df5644beaf396](https://bscscan.com/address/0x157E85E1527b2d1c1188Cad9101Df5644beaf396#code) |
+| LiquidityManager (add / remove liquidity, claim fees) | [0x828cb0424f7f8FAb1DB1411e5B12b8fC78AC286f](https://bscscan.com/address/0x828cb0424f7f8FAb1DB1411e5B12b8fC78AC286f#code) |
 
 Network settings and addresses in machine-readable form: [`bnbconfig.json`](bnbconfig.json).
 
