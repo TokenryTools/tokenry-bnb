@@ -32,11 +32,11 @@ Network settings and addresses in machine-readable form: [`bnbconfig.json`](bnbc
 
 ## Features
 
-- **BEP-20 Token Creator**: deploy a BEP-20 token on BNB Smart Chain with optional tax, limits, minting and ownership settings; Tokenry submits its source for verification on BscScan after deploy.
-- **Multisender**: airdrop BNB or any BEP-20 token to thousands of wallets from a list or CSV.
-- **Liquidity Pool Creator**: open a PancakeSwap or Uniswap pool on BNB Smart Chain, with an optional first buy in the same transaction.
-- **Add / Remove Liquidity and Claim Fees**: manage PancakeSwap and Uniswap positions on BNB Smart Chain.
-- **Token Manager**: change the settings of a BEP-20 token made with Tokenry.
+- **[BEP-20 Token Creator](https://tokenry.tools/binance-token-creator)**: deploy a BEP-20 token on BNB Smart Chain with optional tax, limits, minting and ownership settings; Tokenry submits its source for verification on BscScan after deploy.
+- **[BNB Multisender](https://tokenry.tools/binance-multisender)**: airdrop BNB or any BEP-20 token to thousands of wallets from a list or CSV.
+- **[BNB Liquidity Pool Creator](https://tokenry.tools/binance-liquidity-pool-creator)**: open a PancakeSwap or Uniswap pool on BNB Smart Chain, with an optional first buy in the same transaction.
+- **[Add Liquidity](https://tokenry.tools/add-binance-liquidity), [Remove Liquidity](https://tokenry.tools/remove-binance-liquidity) and [Claim Pool Fees](https://tokenry.tools/claim-binance-pool-fees)**: manage PancakeSwap and Uniswap positions on BNB Smart Chain.
+- **[BEP-20 Token Manager](https://tokenry.tools/manage-binance-token)**: change the settings of a BEP-20 token made with Tokenry.
 - **Non-custodial**: every action is a transaction you review and sign in your own wallet; fees are shown in BNB before signing.
 
 ## Links
